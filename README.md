@@ -3,8 +3,8 @@ First archive in github
 <div class="header_top">
         <div class="cabezote">
             <div class="title_big_header">
-                <a href="http://rnt.camara.org/frontend_dev.php/">
-                    <img src="./Formulairo_arrendatario_files/3c73e54429a5a7ae792e58e3d51407675f93cd35.jpg" alt="RNT">
+                <a href="#">
+                    <img src="3c73e54429a5a7ae792e58e3d51407675f93cd35.jpg" alt="RNT">
                 </a>
             </div>
             <div class="title_header_botton">
