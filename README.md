@@ -22,3 +22,33 @@ First archive in github
             <div class="fecha_actual">
 lunes 30 enero 2017 12:48:26</div>        </div>
     </div>
+
+<style>
+    .texto_personalizado{
+        color:#0f0f0f;
+    }
+    .text_footer{
+        background-color:#0f0f0f;
+
+    }
+    header,footer{
+        background: rgba(143,0,0,0.5);
+        background: -webkit-gradient(linear, bottom, top, color-stop(0%,rgba(255,255,255,0.01)), color-stop(100%,rgba(143,0,0,0.5)));
+        background: -webkit-linear-gradient(0deg, rgba(255,255,255,0.01) 0%, rgba(143,0,0,0.5) 100%); 
+        background: -moz-linear-gradient(0deg, rgba(255,255,255,0.01) 0%, rgba(143,0,0,0.5) 100%); 
+        background: linear-gradient(0deg, rgba(255,255,255,0.01) 0%, rgba(143,0,0,0.5) 100%); 
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#03ffffff', endColorstr='#1a280000',GradientType=0 ); /* IE6-9 */
+        
+        <!--[if IE 8]>
+        background: #8f0000 url("/images/frontend/bg_v.png") top repeat-x;
+        background-size:100% 100%;
+        <![endif]-->
+        
+        <!--[if IE 9]>
+        background: #8f0000 url("/images/frontend/bg_v.png") top repeat-x;
+        background-size:100% 100%;
+        <![endif]-->
+        
+    }
+
+</style>
